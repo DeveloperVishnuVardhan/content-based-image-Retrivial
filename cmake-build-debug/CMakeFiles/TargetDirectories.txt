@@ -1,0 +1,4 @@
+/Users/jyothivishnuvardhankolla/Desktop/Project-2:Content-BasedImageRetrieval/content-based-image-retrieval/cmake-build-debug/CMakeFiles/main.cpp.dir
+/Users/jyothivishnuvardhankolla/Desktop/Project-2:Content-BasedImageRetrieval/content-based-image-retrieval/cmake-build-debug/CMakeFiles/Matching.cpp.dir
+/Users/jyothivishnuvardhankolla/Desktop/Project-2:Content-BasedImageRetrieval/content-based-image-retrieval/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jyothivishnuvardhankolla/Desktop/Project-2:Content-BasedImageRetrieval/content-based-image-retrieval/cmake-build-debug/CMakeFiles/rebuild_cache.dir
